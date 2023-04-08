@@ -2,7 +2,7 @@
 
 This is an example startup name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
-![Text box that says name my pet with an icon of a dog](https://github.com/roshanpoudel91/gpt-startup-app/blob/master/gpt-startup-app-1.JPG)
+![Text box that says name my pet with an icon of a dog](https://raw.githubusercontent.com/roshanpoudel91/gpt-startup-app/master/gpt-startup-app-1.jpg)
 
 
 ## Setup
